@@ -1,2 +1,2 @@
-hello there
+Hello there!
 welcome to the hacktoberfest
